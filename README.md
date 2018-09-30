@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/vmcggh18/ecommercetest.svg?branch=master)](https://travis-ci.com/vmcggh18/ecommercetest)
+[![Build Status](https://travis-ci.com/vmcggh18/myecommerce1.svg?branch=master)](https://travis-ci.com/vmcggh18/myecommerce1)
